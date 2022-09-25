@@ -1,0 +1,12 @@
+body {
+  background-color: hsl(30, 38%, 92%);
+}
+
+.product-card {
+  width: 40%;
+  background-color: white;
+  margin: 0 auto;
+}
+
+.description {
+}
